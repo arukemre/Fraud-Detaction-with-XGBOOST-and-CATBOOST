@@ -1,6 +1,6 @@
 # Fraud-Detaction
 Fraud Detaction Towards Finance
-
+![image](https://user-images.githubusercontent.com/64266044/222983806-bea557bf-7d94-48cb-98f9-0f77e046e12c.png)
 
 This repository is prepared to enhance ML Skills. The repository contains library import, Data exploration, Data visualization, feature engineering, model building stage, and conclusion part.
 
